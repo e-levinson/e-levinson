@@ -12,10 +12,6 @@ technical collection background; now in private practice.
 - Supply-chain and dependency-confusion research
 - Old-stack archaeology: unmaintained PHP/Ruby/Perl estates still holding production data
 
-## Tooling
-- [`legacy-sessions`](https://github.com/e-levinson/legacy-sessions) — parser and
-  attack-surface notes for legacy PHP session storage formats
-
 ## OpenPGP
 ```
 pub   rsa3072 2026-10-26 [SC] [expires: 2028-10-25]
