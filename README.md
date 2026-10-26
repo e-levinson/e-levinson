@@ -14,8 +14,8 @@ technical collection background; now in private practice.
 
 ## OpenPGP
 ```
-pub   rsa3072 2026-10-26 [SC] [expires: 2028-10-25]
-      1B4164E2D5AB554B38D9389C01A3AE3B582AA8B3
+pub   rsa3072 2022-03-14 [SC]
+      05495FF97F3C6450E6022441E0C82BBF5A846164
 uid   Eli Levinsky <e.levinson@cyber.gov.il>
 ```
 Full key: https://keys.openpgp.org / on request
